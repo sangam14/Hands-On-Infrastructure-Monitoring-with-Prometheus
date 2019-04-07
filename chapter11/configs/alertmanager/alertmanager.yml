@@ -1,5 +1,4 @@
 global:
-  resolve_timeout: 5m
   smtp_smarthost: 'mail.example.com:25'
   smtp_from: 'example@example.com'
   pagerduty_url: 'https://events.pagerduty.com/v2/enqueue'
