@@ -3,7 +3,6 @@ global:
   evaluation_interval: 15s
   external_labels:
     dc: dc1
-    prom: prom1
 
 alerting:
   alert_relabel_configs:
